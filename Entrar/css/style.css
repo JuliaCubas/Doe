@@ -1,0 +1,48 @@
+@media (max-width: 576px) {
+  .postagem {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+}
+
+.postagem{
+  width: 35%;
+  min-height: 100vh;
+  background: #fff;
+
+  position: relative;
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.imgperfil img{
+	border-radius:50px;
+	width:100px;
+	height:100px;
+float: right;
+}
+.postagem{
+margin-left: -15px;
+background-color:	white;
+}
+.postagem2{
+	width:40%;
+	float:right;
+	margin-right:13%;
+}
+body{
+	height: 100%;
+	font-family: Poppins-Regular, sans-serif;
+}
+*{border: 0px; padding: 0px;}
+
+
+
+.row{padding: 0px; margin:0px;}
+.small{font-size: 13px;}
+.post-content{background-color: white; box-shadow: 0px 0px 1px 0px #999; border-radius: 1px; padding: 10px;}
+.post-content h4{font-weight: normal;}
+.post-content img{width: 150px; height: 120px;}
+.post-content .button{text-align: right; padding: 10px;}
+.post-content .button .btn-info{border-radius: 0px; padding: 5px 25px 5px 25px;}
+.btn{background-color:#E6002E;}
+.btn:hover{background-color:#B22222;}
