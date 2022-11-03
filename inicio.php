@@ -20,7 +20,7 @@
         <li><a class="linha botao1" href="inicio.php">Inicio</a></li>
         <li><a class="linha botao1" href="sobre.php">Sobre</a></li>
 		<li class="dropdown1">
-  <a class="linha botao1" href="informacoes.php">Informação</a>
+  <a class="linha botao1" href="informacoes.php">Informações</a>
   <div class="dropdown1-content">
   
  <a href="informacoes.php#historia"><p class="dropdownsep">História da doação de sangue</p></a>
